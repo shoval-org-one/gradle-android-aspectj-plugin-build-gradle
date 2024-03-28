@@ -1,0 +1,113 @@
+repo_name: shoval-org-one/gradle-android-aspectj-plugin-build-gradle
+report_id: 31a88d3da5f50eaa3dac4778c2d3e0b1
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-28T13:04:05+00:00'
+requested_by: esmasui
+provider: github
+branch: master
+detected_tools_count: 9
+tools:
+- name: Groovy
+  description: A multi-faceted language for the Java platform
+  website_url: https://groovy-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/shoval-org-one/gradle-android-aspectj-plugin-build-gradle
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/shoval-org-one/gradle-android-aspectj-plugin-build-gradle
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  version: 1.5.0
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/shoval-org-one/gradle-android-aspectj-plugin-build-gradle/blob/master/buildSrc/build.gradle
+  detection_source: buildSrc/build.gradle
+  last_updated_by: Sosuke Masui
+  last_updated_on: 2016-03-09 09:32:17.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/shoval-org-one/gradle-android-aspectj-plugin-build-gradle
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/shoval-org-one/gradle-android-aspectj-plugin-build-gradle/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Sosuke Masui
+  last_updated_on: 2016-03-09 09:32:17.000000000 Z
+- name: Robolectric
+  description: An open-source testing framework for Android
+  website_url: http://robolectric.org/
+  version: '3.0'
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2022/OavapKft_400x400.png
+  detection_source_url: https://github.com/shoval-org-one/gradle-android-aspectj-plugin-build-gradle/blob/master/tests/annotationBasedStyle/build.gradle
+  detection_source: tests/annotationBasedStyle/build.gradle
+  last_updated_by: Sosuke Masui
+  last_updated_on: 2015-10-06 12:35:04.000000000 Z
+- name: wercker
+  description: Build, test, and deploy container-native applications
+  website_url: http://wercker.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/897/S67KcxKE.png
+  detection_source_url: https://github.com/shoval-org-one/gradle-android-aspectj-plugin-build-gradle/blob/master/wercker.yml
+  detection_source: wercker.yml
+  last_updated_by: Sosuke Masui
+  last_updated_on: 2014-08-05 07:26:04.000000000 Z
+- name: AspectJ
+  description: Official Eclipse Foundation Twitter ID
+  website_url: https://eclipse.org/aspectj/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2973/2ugK6PfJ_normal.jpg
+  detection_source_url: https://github.com/shoval-org-one/gradle-android-aspectj-plugin-build-gradle
+  detection_source: Repo Metadata
+- name: Dagger
+  description: A fast dependency injector for Android and Java
+  website_url: http://square.github.io/dagger/
+  version: 2.0.1
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3672/no-img-open-source.png
+  detection_source_url: https://github.com/shoval-org-one/gradle-android-aspectj-plugin-build-gradle/blob/master/tests/androidAptIntegration/build.gradle
+  detection_source: tests/androidAptIntegration/build.gradle
+  last_updated_by: Sosuke Masui
+  last_updated_on: 2015-10-06 10:56:51.000000000 Z
